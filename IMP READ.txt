@@ -1,0 +1,8 @@
+DATABASE NAME
+Database Name: onlinefoodphp
+
+ADMIN PAGE ID
+Username: adarsh
+
+Password: adarsh123
+
